@@ -9,7 +9,7 @@ Welcome to my portfolio repository! This repo showcases my work in **AI, automat
 ### 🔹 Order Agent
 - **Overview:** AI-powered system for automated order processing, integrated with a restaurant dashboard.
 - **Technology:** Voice-Voice LLM, Express.js for backend, Vue.js for frontend, SQL database. Fully integrated and deployed on Azure.
-- [Working Dashboard](https://app.pacterio.com/)
+- [Working Dashboard](https://app.pacterio.com/) (Reach to me for test account details)
 - [Give an Order!](https://demo.pacterio.com/) (Press "Start Call" for English. Your microphone settings should be allowed in settings.)
 
 ### 🔹 Outbound Call Automation
