@@ -57,7 +57,6 @@ Welcome to my portfolio repository! This repo showcases my work in **AI, automat
 ---
 
 ## 📱 Mobile Applications
-*(Links to no-code projects are included below)*
 
 ### 🔹 National Onsite
 - **Description:** A **Flutter-based** septic process innovation startup application for users in the USA.
