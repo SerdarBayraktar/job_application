@@ -52,7 +52,6 @@ Welcome to my portfolio repository! This repo showcases my work in **AI, automat
 
 ### 🔹 Game Mechanics LLM
 - **Overview:** AI-powered **continuous game mechanics generator** for story-based games.
-- **Technology:** TensorFlow.
 - **Code Files:** [`game.ipynb`](./game_mechanics_LLM/game.ipynb)
 
 ---
