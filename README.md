@@ -70,7 +70,6 @@ Welcome to my portfolio repository! This repo showcases my work in **AI, automat
 ---
 
 ## 💬 Contributing & Contact
-- If you'd like to contribute, feel free to submit a pull request!
 - 📧 **Email:** sbayraktar@tudelft.nl
 - 📧 **Email:** s.bayraktar.2@umail.leidenuniv.nl
 - 📧 **Email:** serdarbayraktar03@gmail.com
