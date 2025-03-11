@@ -25,7 +25,7 @@ Welcome to my portfolio repository! This repo showcases my work in **AI, automat
   - [`Llama_3_2_3B_training.ipynb`](./LLM_finetune/Llama_3_2_3B_training.ipynb)
 
 ### 🔹 LangChain RAG Demo
-- **Overview:** Implementation of **Retrieval-Augmented Generation (RAG)** using LangChain for knowledge-based query handling.
+- **Overview:** Implementation of **Retrieval-Augmented Generation (RAG)** using LangChain for knowledge-based query handling. User uploads a pdf, PDF locally encoded to vector database and similarity search is run for semantic operations.
 - **Technology:** ChromaDB, Ollama embeddings, OpenAI embeddings, LangChain, Local Vector Database.
 - **Code Files:** [`RAG.ipynb`](./RAG_Llama/RAG.ipynb)
 
